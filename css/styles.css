@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.picture-me {
+    border-radius: 50%;
+    height: 150px;
+    width: auto;
+    margin: 30px;
+}
+
+.heading-below-picture {
+    margin: 5px;
+}
+
+.web-developer{
+    display: inline-block;
+    position: relative;
+    animation: typing 2s steps(32) forwards;
+}
